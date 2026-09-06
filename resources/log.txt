@@ -1,0 +1,31 @@
+2026-08-30 07:52:05 插件进程启动
+2026-08-30 07:52:05 当前配置: QQ=true, WeChat=false, Telegram=false, Discord=false, Minecraft=false, 音量=80, 音频=laugh.wav
+2026-08-30 07:52:05 诊断 : 通知数据库共有 17 条通知记录
+2026-08-30 07:52:05 诊断 : 最新通知到达时间: 2026-08-30T07:34:50+08:00
+2026-08-30 07:52:05 诊断 : 关联示例 HandlerId=224 -> PrimaryId=Microsoft.BingNews_8wekyb3d8bbwe!AppexNews
+2026-08-30 07:52:05 诊断 : 关联示例 HandlerId=111 -> PrimaryId=MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy!Widgets
+2026-08-30 07:52:05 诊断 : 关联示例 HandlerId=224 -> PrimaryId=Microsoft.BingNews_8wekyb3d8bbwe!AppexNews
+2026-08-30 07:52:05 诊断 : 关联示例 HandlerId=224 -> PrimaryId=Microsoft.BingNews_8wekyb3d8bbwe!AppexNews
+2026-08-30 07:52:05 诊断 : 关联示例 HandlerId=224 -> PrimaryId=Microsoft.BingNews_8wekyb3d8bbwe!AppexNews
+2026-08-30 07:52:05 DragonHub已启动 , 监听 2637
+2026-08-30 07:52:15 检测到新消息 [qq] 标题="Default IME" 未读数=-1
+2026-08-30 07:52:28 检测到新消息 [qq] 标题="群精华 - 火柴人漫画观看群" 未读数=-1
+2026-08-30 07:52:54 未匹配通知来源: AppID=Microsoft.ScreenSketch_8wekyb3d8bbwe!App, HandlerId=122, 时间=2026-08-30T07:52:52+08:00
+2026-08-30 07:55:13 未匹配通知来源: AppID=Microsoft.BingNews_8wekyb3d8bbwe!AppexNews, HandlerId=224, 时间=2026-08-30T07:55:10+08:00
+2026-08-30 07:58:26 检测到新消息 [qq] 标题="MSCTFIME UI" 未读数=-1
+2026-08-30 08:50:23 插件进程启动
+2026-08-30 08:50:23 当前配置: QQ=true, WeChat=false, Telegram=false, Discord=false, Minecraft=true, 音量=80, 音频=laugh.wav
+2026-08-30 08:50:23 诊断 : 通知数据库共有 18 条通知记录
+2026-08-30 08:50:23 诊断 : 最新通知到达时间: 2026-08-30T08:33:54+08:00
+2026-08-30 08:50:23 诊断 : 关联示例 HandlerId=111 -> PrimaryId=MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy!Widgets
+2026-08-30 08:50:23 诊断 : 关联示例 HandlerId=224 -> PrimaryId=Microsoft.BingNews_8wekyb3d8bbwe!AppexNews
+2026-08-30 08:50:23 诊断 : 关联示例 HandlerId=224 -> PrimaryId=Microsoft.BingNews_8wekyb3d8bbwe!AppexNews
+2026-08-30 08:50:23 诊断 : 关联示例 HandlerId=122 -> PrimaryId=Microsoft.ScreenSketch_8wekyb3d8bbwe!App
+2026-08-30 08:50:23 诊断 : 关联示例 HandlerId=224 -> PrimaryId=Microsoft.BingNews_8wekyb3d8bbwe!AppexNews
+2026-08-30 08:50:23 DragonHub已启动 , 监听 2637
+2026-08-30 08:55:30 未匹配通知来源: AppID=Microsoft.BingNews_8wekyb3d8bbwe!AppexNews, HandlerId=224, 时间=2026-08-30T08:55:29+08:00
+2026-08-30 09:02:18 检测到新通知: HandlerId=328, AppID=QQ, 时间=2026-08-30T09:02:14+08:00
+2026-08-30 09:02:18 触发播放（通知来源）
+2026-08-30 09:02:41 检测到新通知: HandlerId=328, AppID=QQ, 时间=2026-08-30T09:02:41+08:00
+2026-08-30 09:02:41 触发播放（通知来源）
+2026-08-30 09:02:44 服务器打开

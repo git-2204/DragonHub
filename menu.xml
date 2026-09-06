@@ -1,0 +1,19 @@
+<menu title="奶龙唐笑">
+    <section label="启用软件"/>
+    <checkbox id="enable_qq" label="QQ" default="true"/>
+    <checkbox id="enable_wechat" label="微信（暂不支持）" default="false"/>
+    <checkbox id="enable_telegram" label="Telegram" default="true"/>
+    <checkbox id="enable_discord" label="Discord" default="true"/>
+    <checkbox id="enable_minecraft" label="Minecraft" default="true"/>
+    <separator/>
+
+    <slider id="volume" label="音量" min="0" max="100" default="80"/>
+    <input id="sound_file" label="音频文件（resources/ 下）" default="laugh.wav"/>
+    <input id="minecraft_server" label="Minecraft 服务器地址" default="play.simpfun.cn"/>
+    <input id="minecraft_port" label="Minecraft 服务器端口" default="18440"/>
+
+    <button id="test" label="测试播放" value="test"/>
+
+    <separator/>
+    <label id="hint" text="请为选择的应用打开“系统通知” , 在QQ9中 , 操作方式为设置->消息通知->通知类型->Windows通知"/>
+</menu>

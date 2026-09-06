@@ -1,0 +1,11 @@
+{
+  "id": "com.example.nailonglaugh",
+  "name": "奶龙唐笑",
+  "description": "检测 QQ/微信（暂不支持）/Telegram/Discord 新消息并播放奶龙唐笑",
+  "version": "1.4.0",
+  "call_mode": "hot",
+  "port": 2637,
+  "permissions": [],
+  "triggers": [],
+  "actions": []
+}

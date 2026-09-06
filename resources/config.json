@@ -1,0 +1,8 @@
+{
+  "enables": ["qq","wechat","telegram","discord","minecraft"],
+  "enables_value":[true, false, false, false, true],
+  "volume": 80,
+  "sound_files": ["laugh.wav","laugh.wav","laugh.wav","laugh.wav","laugh.wav"],
+  "minecraft_server": ["play.simpfun.cn"],
+  "minecraft_port": [18440]
+}
